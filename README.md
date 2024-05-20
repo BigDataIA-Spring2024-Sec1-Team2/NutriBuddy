@@ -2,9 +2,13 @@
 
 The project aims to develop a personalized meal planner application that utilizes data from various sources, including nutritional databases, user input, and meal suggestion algorithms. The application will be developed using modern web and mobile technologies, leveraging frameworks such as Streamlit for frontend development and FastAPI for backend functionality. The expected deliverables include a user-friendly interface for meal planning, calorie tracking features, personalized meal suggestions, and data visualization capabilities.
 
-## Live application:
+## Live application: (Currently turned down as GCP resources were costing credits)
 
 http://35.237.26.187:8501/Sign_In
+
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/HZ9F3hE_22M?si=JkZw-2VwOPP-iwxf)
 
 ## Documentation
 
