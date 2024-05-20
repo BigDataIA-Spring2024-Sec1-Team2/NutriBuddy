@@ -8,7 +8,7 @@ http://35.237.26.187:8501/Sign_In
 
 ## Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/HZ9F3hE_22M?si=JkZw-2VwOPP-iwxf)
+[![Watch the video](https://img.youtube.com/vi/HZ9F3hE_22M/maxresdefault.jpg)](https://www.youtube.com/watch?v=HZ9F3hE_22M)
 
 ## Documentation
 
